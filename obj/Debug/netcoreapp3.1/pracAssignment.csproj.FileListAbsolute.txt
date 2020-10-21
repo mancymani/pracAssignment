@@ -1,0 +1,13 @@
+C:\Users\mancy\source\repos\pracAssignment\pracAssignment\obj\Debug\netcoreapp3.1\pracAssignment.csprojAssemblyReference.cache
+C:\Users\mancy\source\repos\pracAssignment\pracAssignment\obj\Debug\netcoreapp3.1\pracAssignment.AssemblyInfoInputs.cache
+C:\Users\mancy\source\repos\pracAssignment\pracAssignment\obj\Debug\netcoreapp3.1\pracAssignment.AssemblyInfo.cs
+C:\Users\mancy\source\repos\pracAssignment\pracAssignment\obj\Debug\netcoreapp3.1\pracAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mancy\source\repos\pracAssignment\pracAssignment\bin\Debug\netcoreapp3.1\pracAssignment.exe
+C:\Users\mancy\source\repos\pracAssignment\pracAssignment\bin\Debug\netcoreapp3.1\pracAssignment.deps.json
+C:\Users\mancy\source\repos\pracAssignment\pracAssignment\bin\Debug\netcoreapp3.1\pracAssignment.runtimeconfig.json
+C:\Users\mancy\source\repos\pracAssignment\pracAssignment\bin\Debug\netcoreapp3.1\pracAssignment.runtimeconfig.dev.json
+C:\Users\mancy\source\repos\pracAssignment\pracAssignment\bin\Debug\netcoreapp3.1\pracAssignment.dll
+C:\Users\mancy\source\repos\pracAssignment\pracAssignment\bin\Debug\netcoreapp3.1\pracAssignment.pdb
+C:\Users\mancy\source\repos\pracAssignment\pracAssignment\obj\Debug\netcoreapp3.1\pracAssignment.dll
+C:\Users\mancy\source\repos\pracAssignment\pracAssignment\obj\Debug\netcoreapp3.1\pracAssignment.pdb
+C:\Users\mancy\source\repos\pracAssignment\pracAssignment\obj\Debug\netcoreapp3.1\pracAssignment.genruntimeconfig.cache
